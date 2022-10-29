@@ -19,7 +19,7 @@ df.dropna(inplace=True)
 def delete_outlier(dfs, i):
     zscore = i + '_z'
     dfs.zscore = (dfs[i] - dfs[i].mean())/dfs[i].std() 
-    dfs = dfs[(dfs.zscore > -3) & (dfs.zscore < 3)]
+    dfs = dfs[(dfs.zscore > -1.5) & (dfs.zscore < 1.5)]
     return(dfs)
 
 numerical_features = []
