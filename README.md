@@ -52,13 +52,13 @@ You can see some details when clicking the following link:<br>
  4. **Sidebar** which users can enter the names of different areas to see statistics on rainfall at different times of the year and whether it will rain today or tomorrow.<br>
 
 ## Explanation of Data App
-#### In the map, you can go over the average rainfall of each city in Australia less than the value we select in the slider.
-  In **conclusion**, we can see that the southeast coast of Australia have a higher rainfall average.
-#### We show how the precipitation in Australia for years and for months in these two histograms. 
-  In **conclusion**, we can say that the average rainfall of 2007 is higher than the others, and it rains more in Novermber to February.
-#### Next, we set eight tab blocks to show the factors relate to whether rain will fall tomorrow. 
+ 1. In the map, you can go over the average rainfall of each city in Australia less than the value we select in the slider.
+   - In **conclusion**, we can see that the southeast coast of Australia have a higher rainfall average.
+ 2. We show how the precipitation in Australia for years and for months in these two histograms. 
+   - In **conclusion**, we can say that the average rainfall of 2007 is higher than the others, and it rains more in Novermber to February.
+ 3. Next, we set eight tab blocks to show the factors relate to whether rain will fall tomorrow. 
   We select the data which match tomorrow rain is TURE, then we use the data to make boxplot to get the overview of this factor. In the min and max Temp, Pressure, Humdity, we also set dot plot, which shows the difference of data between tomorrow rain is TRUE and FALSE.
-  + We set the **conclusion** in a text box, which shows that it has a high chance to rain tomorrow when:<br>
+   - We set the **conclusion** in a text box, which shows that it has a high chance to rain tomorrow when:<br>
    • It rained today<br>
    • The presure is low<br>
    • The humidity is high<br>
