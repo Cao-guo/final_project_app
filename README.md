@@ -58,7 +58,7 @@ You can see some details when clicking the following link:<br>
    - In **conclusion**, we can say that the average rainfall of 2007 is higher than the others, and it rains more in Novermber to February.
  3. Next, we set eight tab blocks to show the factors relate to whether rain will fall tomorrow. 
   We select the data which match tomorrow rain is TURE, then we use the data to make boxplot to get the overview of this factor. In the min and max Temp, Pressure, Humdity, we also set dot plot, which shows the difference of data between tomorrow rain is TRUE and FALSE.
-   - We set the **conclusion** in a text box, which shows that it has a high chance to rain tomorrow when:<br>
+   + We set the **conclusion** in a text box, which shows that it has a high chance to rain tomorrow when:<br>
    • It rained today<br>
    • The presure is low<br>
    • The humidity is high<br>
